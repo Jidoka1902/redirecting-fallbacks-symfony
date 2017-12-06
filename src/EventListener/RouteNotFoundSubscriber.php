@@ -1,6 +1,6 @@
 <?php
 
-namespace Jidoka1902\RedirectingFallbacksSymfony\EventSubscriber;
+namespace Jidoka1902\RedirectingFallbacksSymfony\EventListener;
 
 
 use Jidoka1902\RedirectingFallbacks\Resolver\RedirectResolver;
