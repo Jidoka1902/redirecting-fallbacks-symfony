@@ -3,7 +3,7 @@
     "description": "Integration to the jidoka1902/redirecting-fallbacks project for symfony",
     "type": "symfony-integration",
     "keywords": ["redirects", "redirecting", "redirect", "404", "fallback", "symfony", "integration"],
-    "license": "BSD-3",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Anton Sylvester Zoffmann",
