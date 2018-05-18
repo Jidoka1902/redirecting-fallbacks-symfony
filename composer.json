@@ -11,12 +11,12 @@
         }
     ],
     "require": {
-        "php": "^7.1",
-        "jidoka1902/redirecting-fallbacks": "^1.0",
-        "symfony/routing": "^4.0",
-        "symfony/event-dispatcher": "^4.0",
-        "symfony/http-foundation": "^4.0",
-        "symfony/http-kernel": "^4.0"
+        "php": "^7.0",
+        "jidoka1902/redirecting-fallbacks": "^1.0.1",
+        "symfony/routing": "^3.4|^4.0",
+        "symfony/event-dispatcher": "^3.4|^4.0",
+        "symfony/http-foundation": "^3.4|^4.0",
+        "symfony/http-kernel": "^3.4|^4.0"
     },
     "autoload": {
         "psr-4": {
