@@ -24,7 +24,7 @@ use Symfony\Component\HttpKernel\KernelEvents;
 class RouteNotFoundSubscriber implements EventSubscriberInterface
 {
 
-    public const REDIRECT_PRIORITY = 100;
+    const REDIRECT_PRIORITY = 100;
 
     /** @var RedirectResolver */
     private $resolver;
